@@ -1,10 +1,10 @@
 package com.example.demo.dto;
 
+import com.example.demo.entities.Product;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-
-import com.example.demo.entities.Product;
 
 public class ProductDTO {
 
